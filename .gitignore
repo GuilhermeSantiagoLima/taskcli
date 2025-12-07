@@ -13,3 +13,5 @@ example_tasks.json
 
 # Ignorar configurações do editor (VS Code)
 .vscode/
+
+*.egg-info/
