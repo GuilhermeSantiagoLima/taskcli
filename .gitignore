@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual (é pesado e inútil para os outros)
+venv/
+.env
+
+# Ignorar lixo gerado pelo Python (cache compilado)
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de dados (suas tarefas são pessoais, não devem ir pro GitHub)
+.taskcli/
+tasks.json
+example_tasks.json
+
+# Ignorar configurações do editor (VS Code)
+.vscode/
